@@ -22,6 +22,9 @@ class AnagramSorter
                 Console.WriteLine("Reading Input File...");
                 string[] lines = File.ReadAllLines(inputFilePath);
 
+                // if there is no content, throw error saying so
+                if (lines.Length == 0) { throw new Exception("There is no content in the input file to analyze"); }
+
                 // ensure InputOutput directory exists
                 System.IO.Directory.CreateDirectory(System.IO.Directory.GetCurrentDirectory() + "\\InputOutput");
 
