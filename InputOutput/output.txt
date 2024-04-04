@@ -5,4 +5,3 @@
 [to],[too],[two,tow],[eat,ate,tea]
 [ele gant man,a gentleman]
 [abc,cba],[abc efg,gef cab]
-[ta		b],[bat]
