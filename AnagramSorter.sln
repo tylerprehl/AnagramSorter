@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34723.18
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AnagramSorter", "AnagramSorter.csproj", "{009C3354-3454-4D96-8575-20609AD51DED}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{009C3354-3454-4D96-8575-20609AD51DED}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{009C3354-3454-4D96-8575-20609AD51DED}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{009C3354-3454-4D96-8575-20609AD51DED}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{009C3354-3454-4D96-8575-20609AD51DED}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {50D3DE3C-AD25-4583-AFD8-61D647979B5F}
+	EndGlobalSection
+EndGlobal

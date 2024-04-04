@@ -1,0 +1,8 @@
+[]
+[thing]
+[some thing]
+[to],[too],[two,tow],[eat,ate,tea]
+[ele gant man,a gentleman]
+[pay,yap]
+[abc,cba],[abc efg,gef cab]
+[abc,bac]
